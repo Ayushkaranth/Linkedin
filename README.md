@@ -8,7 +8,7 @@ A simplified LinkedIn-style platform that allows users to register, log in, crea
 
 ## 🚀 Live Demo
 
-🔗 [Live Site](https://linkedin-wdxl.onrender.com/login)
+🔗 [Live Site](https://socialspace.onrender.com/login)
 
 ## 📁 GitHub Repository
 
